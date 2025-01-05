@@ -1,1 +1,1 @@
-# ATS-resume-checker
+# ATS_resume_checker
