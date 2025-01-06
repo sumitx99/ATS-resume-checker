@@ -73,5 +73,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 For any inquiries or feedback, please reach out at sumitranjan0304@gmail.com.
 ## Screenshots
 
-![App Screenshot](https://ibb.co/KNkB2rX)
+![App Screenshot](https://i.ibb.co/ZHPvBMV/Screenshot-2025-01-06-130235.png[/img][/url])
 
